@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Artem",
+      "species": "Owl",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "12"
     }
   ]
 }
